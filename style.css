@@ -429,7 +429,17 @@ color: rgb(128, 128, 128);
 
 }
   }
+ @media (max-height: 800px) {
+  .player {
+    margin-top: 20px;
+  }
+  .title{
+    padding-top: 10px;
+    padding-bottom: 0px;
 
+  }
+ 
+}
 
 @media (max-width: 800px) {
    .playlist-song-name , .playlist-artist-name{
@@ -515,17 +525,7 @@ color: rgb(128, 128, 128);
   }
 }
 
- @media (max-height: 800px) {
-  .player {
-    margin-top: 20px;
-  }
-  .title{
-    padding-top: 10px;
-    padding-bottom: 0px;
 
-  }
- 
-}
 
 
 
