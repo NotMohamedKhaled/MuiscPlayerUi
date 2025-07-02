@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Musify</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-blur"></div>
+    <div class="main">
+        <div class="title"><p>Musify</p></div>
+        <div class="player">
+            <div class="left">
+                <audio class="audio-player" src=""></audio>
+                <div class="img-container">
+                <img src="" alt="">
+                </div>
+                <div class="rest">
+                    <div class="song-details">
+                     <p class="song-name"></p>
+                     <p class="artist-name"></p>
+                    </div>
+                    <div class="controllers">
+                        <div class="song-timers">
+                            <p class="left"></p>
+                            <p class="right"></p>
+                        </div>
+                        <input type="range" min="0" max="100" value="0" class="progress-bar">
+                        <div class="control-buttons">
+                            <button class="shuffle control"><i class="fas fa-shuffle icon"></i></button>
+                            <button class="prev control"><i class="fas fa-step-backward icon"></i></button>
+                            <button class="pause-play control"><i class="fas fa-play icon"></i></button>
+                            <button class="next control"><i class="fas fa-step-forward icon"></i></button>
+                            <button class="repeat control"><i class="fas fa-repeat icon"></i></button>
+                            
+                        </div>   
+                    </div>
+                    <div class="volume-control">
+                            <i class="fas fa-volume-up volume-icon"></i>
+                            <input type="range" min="0" max="100" value="0" class="volume-slider">
+                        </div> 
+                </div>
+             
+            </div>
+            <div class="right-panel">
+           
+            
+        </div>
+
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

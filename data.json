@@ -1,0 +1,58 @@
+[
+  {
+    "title": "icantbelieveiletyougetaway",
+    "artist": "Aldin",
+    "duration": "2:15",
+    "image": "assets/icantbelieveiletyougoaway.jpg",
+    "audio": "assets/aldn - icantbelieveiletyougetaway (official audio).mp3"
+  },
+  {
+    "title": "ppp",
+    "artist": "Beach house",
+    "duration": "6:08",
+    "image": "assets/ppp.jpg",
+    "audio": "assets/Beach House - PPP.mp3"
+  },
+  {
+    "title": "Nevena",
+    "artist": "Oberhover",
+    "duration": "3:43",
+    "image": "assets/nevena.jpg",
+    "audio": "assets/Oberhofer - Nevena.mp3"
+  },
+  {
+    "title": "Jigsaw Falling Into Place",
+    "artist": "Raidohead",
+    "duration": "4:18",
+    "image": "assets/jigsawjpg.jpg",
+    "audio": "assets/Radiohead - Jigsaw Falling Into Place.mp3"
+  },
+  {
+    "title": "Christmas Kids",
+    "artist": "Roar",
+    "duration": "2:18",
+    "image": "assets/roar.jpg",
+    "audio": "assets/Roar - Christmas Kids (lyrics).mp3"
+  },
+  {
+    "title": "The Less I Know Is Better",
+    "artist": "Tame Impala",
+    "duration": "3:38",
+    "image": "assets/lessiknowisbetter.jpg",
+    "audio": "assets/Tame Impala - The Less I Know The Better (Audio).mp3"
+  },
+  {
+    "title": "Ode To The Meds",
+    "artist": "The Strokes",
+    "duration": "5:53",
+    "image": "assets/The_Strokes_-_The_New_Abnormal.png",
+    "audio": "assets/The Strokes - Ode To The Mets (Official Audio).mp3"
+  },
+  {
+    "title": "SPIT IN MY FACE!",
+    "artist": "ThxSoMch",
+    "duration": "2:27",
+    "image": "assets/spitonmyface.jpg",
+    "audio": "assets/ThxSoMch - SPIT IN MY FACE! (Official Audio).mp3"
+  }
+]
