@@ -193,7 +193,6 @@ button {
 }
 
 .progress-bar {
-  width: 100%;
   height: 6px;
   border-radius: 5px;
   outline: none;
