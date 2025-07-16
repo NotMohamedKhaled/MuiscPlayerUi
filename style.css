@@ -561,3 +561,73 @@ color: rgb(128, 128, 128);
     margin-bottom: 5px;
   }
 }
+@media (max-width: 480px) {
+  .title {
+    font-size: 20px;
+    margin-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+
+  .img-container img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .playlist-song-img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .playlist-song-name {
+    font-size: 14px;
+    max-width: 120px;
+  }
+
+  .playlist-artist-name {
+    font-size: 12px;
+    max-width: 120px;
+  }
+
+  .pause-play {
+    width: 36px;
+    height: 36px;
+  }
+
+  .icon {
+    font-size: 22px;
+  }
+
+  .song-name {
+    font-size: 16px;
+  }
+
+  .artist-name {
+    font-size: 13px;
+  }
+
+  .right-panel {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+  }
+
+  .control-buttons {
+    padding: 0 10%;
+    gap: 10px;
+  }
+
+  .volume-icon {
+    font-size: 20px;
+    margin: 0 5px;
+  }
+
+  .volume-slider {
+    width: 100%;
+  }
+
+  .progress-bar {
+    height: 5px;
+    margin: 0 10%;
+  }
+}
